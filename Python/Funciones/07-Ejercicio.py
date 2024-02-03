@@ -33,7 +33,7 @@ def EsPalindromo(texto):
         return False
 
 
-print("Hola", reverse("Hola"))
+# print("Hola", reverse("Hola"))
 
 
 print("Abba", EsPalindromo("Abba"))
